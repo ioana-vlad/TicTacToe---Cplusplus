@@ -1,3 +1,3 @@
 Xand0---Cplusplus
 =================
-First year project for OOP course
+X and 0 implementation in C++. First year project for OOP course
