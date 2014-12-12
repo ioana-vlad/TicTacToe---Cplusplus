@@ -1,3 +1,3 @@
-Xand0---Cplusplus
+TicTacToe---Cplusplus
 =================
-X and 0 implementation in C++. First year project for OOP course
+Tic Tac Toe implementation in C++. First year project for OOP course
